@@ -1,1 +1,0 @@
-SELECT cron.unschedule(jobid) FROM cron.job WHERE command LIKE '%keep_alive%';
