@@ -1,0 +1,1 @@
+GRANT EXECUTE ON FUNCTION public.keep_alive() TO anon, authenticated, service_role;
